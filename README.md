@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Nikhil Gowda S 👋
 
-<!--
-**Nikhil-Gowda-S/Nikhil-Gowda-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech CSE @ VCE Mysuru ('27) | AI/ML Engineer | Building intelligent systems
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 3rd year CSE student with a 9.04 CGPA
+- 🤖 Focused on **LLM applications**, **RAG pipelines**, and **agentic AI**
+- 🏥 Built **MedScribe** — an LLM-based medical transcription system
+- 🌱 Currently exploring multi-agent systems with LangGraph & CrewAI
+- 📍 Based in Mysuru, Karnataka
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+**AI/ML:** Python · LangChain · LangGraph · RAG · Hugging Face  
+**Backend:** FastAPI · PostgreSQL · Docker · Kubernetes  
+**Frontend:** Next.js · TypeScript · React  
+**Cloud:** GCP · Vercel · Supabase
+
+## 📌 Featured Projects
+- 🏥 [MedScribe](https://github.com/Nikhil-Gowda-S/medscribe1) — LLM-powered medical transcription with FastAPI
+- 🎬 [Movie Recommender](https://github.com/Nikhil-Gowda-S/movie_recommender_system) — Content-based filtering with cosine similarity
+- 🏏 [IPL Win Predictor](https://github.com/Nikhil-Gowda-S/ipl-win-predictor) — ML model for live win probability
+
+
+## 📫 Reach Me
+- 💼 LinkedIn--www.linkedin.com/in/nikhil-gowda-s-597628289
+- 📧 nikhilgowdas97@gmail.com
