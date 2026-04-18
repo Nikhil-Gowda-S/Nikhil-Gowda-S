@@ -20,6 +20,8 @@ B.Tech CSE @ VCE Mysuru ('27) | AI/ML Engineer | Building intelligent systems
 - 🎬 [Movie Recommender](https://github.com/Nikhil-Gowda-S/movie_recommender_system) — Content-based filtering with cosine similarity
 - 🏏 [IPL Win Predictor](https://github.com/Nikhil-Gowda-S/ipl-win-predictor) — ML model for live win probability
 
+## 📊 GitHub Stats
+![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikhil-Gowda-S&show_icons=true&theme=tokyonight&hide_border=true)
 
 ## 📫 Reach Me
 - 💼 LinkedIn--www.linkedin.com/in/nikhil-gowda-s-597628289
