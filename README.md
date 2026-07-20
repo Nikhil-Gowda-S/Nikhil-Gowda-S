@@ -4,16 +4,7 @@ B.Tech CSE @ VCE Mysuru ('27) | AI/ML Engineer | Building intelligent systems
 
 ## 🚀 About Me
 - 🎓 Final year CSE student with a 9.02 CGPA
-- 🤖 Focused on **LLM applications**, **RAG pipelines**, and **agentic AI**
-- 🏥 Built **MedScribe** — an LLM-based medical transcription system
-- 🌱 Currently exploring multi-agent systems with LangGraph & CrewAI
 - 📍 Based in Mysuru, Karnataka
-
-## 🛠 Tech Stack
-**AI/ML:** Python · LangChain · LangGraph · RAG · Hugging Face  
-**Backend:** FastAPI · PostgreSQL · Docker · Kubernetes  
-**Frontend:** Next.js · TypeScript · React  
-**Cloud:** GCP · Vercel · Supabase
 
 ## 📌 Featured Projects
 - 🏥 [MedScribe](https://github.com/Nikhil-Gowda-S/medscribe1) — LLM-powered medical transcription with FastAPI
