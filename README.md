@@ -3,7 +3,7 @@
 B.Tech CSE @ VCE Mysuru ('27) | AI/ML Engineer | Building intelligent systems
 
 ## 🚀 About Me
-- 🎓 3rd year CSE student with a 9.04 CGPA
+- 🎓 Final year CSE student with a 9.02 CGPA
 - 🤖 Focused on **LLM applications**, **RAG pipelines**, and **agentic AI**
 - 🏥 Built **MedScribe** — an LLM-based medical transcription system
 - 🌱 Currently exploring multi-agent systems with LangGraph & CrewAI
