@@ -5,7 +5,7 @@
 
 <td width="45%" align="center">
 
-<img src="./nikhil_ascii_line_by_line.gif" width="450">
+<img src="./nikhil_ascii_line_by_line(1).gif" width="450">
 
 </td>
 
