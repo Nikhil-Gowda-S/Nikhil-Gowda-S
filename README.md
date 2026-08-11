@@ -5,7 +5,7 @@
 
 <td width="45%" align="center">
 
-<img src="./nikhil_ascii_line_by_line(1).gif" width="450">
+<img src="./nikhil_ascii_line_by_line_white.gif" width="450">
 
 </td>
 
@@ -66,7 +66,7 @@ Email
 
 ### 🏥 MedScribe
 
-LLM-powered medical transcription application built with FastAPI.
+AI-powered medical transcription application.
 
 [View Repository →](https://github.com/Nikhil-Gowda-S/medscribe1)
 
