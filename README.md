@@ -1,7 +1,7 @@
 # Hi, I'm Nikhil Gowda S 👋
 
 <p align="center">
-  <img src="./nikhil_ascii_line_by_line.gif" width="500">
+  <img src="./nikhil_ascii_line_by_line(1).gif" width="500">
 </p>
 B.Tech CSE @ VCE Mysuru ('27) | AI/ML Engineer | Building intelligent systems
 
