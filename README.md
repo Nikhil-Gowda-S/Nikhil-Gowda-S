@@ -16,11 +16,11 @@
 <h3>Nikhil Gowda S</h3>
 
 <p>
-🎓 B.Tech CSE @ VCE Mysuru ('27)
+🎓 B.Tech CSE @ VVCE Mysuru ('27)
 </p>
 
 <p>
-🤖 AI/ML Engineer | Building intelligent systems
+🤖 Building intelligent systems
 </p>
 
 <p>
@@ -28,7 +28,7 @@
 </p>
 
 <p>
-💻 Python • SQL • Machine Learning • LLMs • RAG
+💻 Python • SQL  • LLMs • RAG
 </p>
 
 <p>
@@ -61,21 +61,6 @@ Email
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
-Python • C • SQL
-
-### AI / ML
-Machine Learning • Scikit-learn • LLMs • RAG
-
-### Data
-Pandas • NumPy • Matplotlib • Power BI
-
-### Backend & Tools
-FastAPI • Git • GitHub • Docker • Streamlit
-
----
 
 ## 📌 Featured Projects
 
@@ -99,17 +84,6 @@ Machine learning application that predicts live IPL win probability.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Nikhil-Gowda-S&show_icons=true&hide_border=true&rank_icon=github" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-Gowda-S&layout=compact&hide_border=true" height="170">
-
-</p>
-
----
 
 ## 📫 Connect With Me
 
