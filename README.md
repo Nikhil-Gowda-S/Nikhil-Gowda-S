@@ -85,22 +85,6 @@ Machine learning application that predicts live IPL win probability.
 ---
 
 
-## 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/nikhil-gowda-s-597628289">
-LinkedIn
-</a>
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-<a href="mailto:nikhilgowdas97@gmail.com">
-Email
-</a>
-
-</p>
-
 <p align="center">
 <i>Building. Learning. Shipping. 🚀</i>
 </p>
