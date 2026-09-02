@@ -68,7 +68,7 @@ Email
 
 AI-powered medical transcription application.
 
-[View Repository →](https://github.com/Nikhil-Gowda-S/medscribe1)
+[View Repository →](https://github.com/Nikhil-Gowda-S/medscribe2)
 
 ### 🎬 Movie Recommender System
 
