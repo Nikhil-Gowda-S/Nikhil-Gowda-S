@@ -64,23 +64,18 @@ Email
 
 ## 📌 Featured Projects
 
-### 🏥 MedScribe
+### 🏥 MedScribe2
 
 AI-powered medical transcription application.
 
 [View Repository →](https://github.com/Nikhil-Gowda-S/medscribe2)
 
-### 🎬 Movie Recommender System
 
-Content-based movie recommendation system using cosine similarity.
+### 🏏 IPL Universe
 
-[View Repository →](https://github.com/Nikhil-Gowda-S/movie_recommender_system)
+The IPL, turned into an interactive data playground.
 
-### 🏏 IPL Win Predictor
-
-Machine learning application that predicts live IPL win probability.
-
-[View Repository →](https://github.com/Nikhil-Gowda-S/ipl-win-predictor)
+[View Repository →](https://github.com/Nikhil-Gowda-S/IPL_Universe)
 
 ---
 
